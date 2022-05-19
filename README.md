@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+<p><img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" /></p>
  
 <h3 align="left">Other Tools:</h3> 
 <h3 align="left">1)Advance Excel</h3> 
@@ -40,6 +40,6 @@
 <h3 align="left">4)Autodesk Inventer</h3> 
 <h3 align="left">5)Lantek Expert</h3> 
                                                                                                                                                      
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsumitjadhav&" alt="imsumitjadhav" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imsumitjadhav&" alt="imsumitjadhav" /></p>
 <img align="center" alt="GIF" src="https://miro.medium.com/max/800/1*em5HcTFZIQw90qIgdbYjVg.gif" width="300" height="300" />
 
