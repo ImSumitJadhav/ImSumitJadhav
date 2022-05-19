@@ -40,6 +40,5 @@
 <h3 align="left">4)Autodesk Inventer</h3> 
 <h3 align="left">5)Lantek Expert</h3> 
                                                                                                                                                      
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imsumitjadhav&" alt="imsumitjadhav" /></p>
-<img align="center" alt="GIF" src="https://miro.medium.com/max/800/1*em5HcTFZIQw90qIgdbYjVg.gif" width="300" height="300" />
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imsumitjadhav&" alt="imsumitjadhav" /></p><img align="right" alt="GIF" src="https://miro.medium.com/max/800/1*em5HcTFZIQw90qIgdbYjVg.gif" width="300" height="300" />
 
