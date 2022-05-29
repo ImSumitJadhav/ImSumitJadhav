@@ -6,6 +6,7 @@
 
 <h3 align="center">Hello,my name is Sumit and i'm from Kolhapur,India.I had completed my engineering as an Automobile Engineer.Because of my interest towards logical and coding,I switch to DATA SCIENCE.</h3>
 
+<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsumitjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="imsumitjadhav" /> </p>
@@ -28,10 +29,9 @@
 <a href="https://instagram.com/its._.sumyaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its._.sumyaaa_" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" /></p>
  
 <h3 align="left">Other Tools:</h3> 
 <h3 align="left">1)Advance Excel</h3> 
