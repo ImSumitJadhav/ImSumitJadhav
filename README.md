@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsumitjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="imsumitjadhav" /> </p>
 
 
-- 🔭 Experience- **I have 1 year experience as a Programming Engineer(PLC)**
+- 🔭 Experience- **I have 1 year experience as a Programming Engineer**
 
 - 🌱 I’m currently learning **Machine Learning And Deep Learning**
 
