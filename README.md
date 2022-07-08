@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<h3 align="center">Hello,this is Sumit and i'm from Kolhapur,India.I had completed my engineering as an Automobile Engineer.Because of my interest towards logical and coding,I switch to DATA SCIENCE.</h3>
+<h3 align="center">Hello,this is Sumit and i'm from India.I had completed my engineering as an Automobile Engineer and Aspiring data scientist.</h3>
 
 <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300" />
 
