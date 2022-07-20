@@ -2,7 +2,7 @@
 <img align="center" alt="GIF" src="https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/data-science-icon-animation-banner-clockwise.gif?fit=1200%2C400" width="8000" height="300" />
 
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <h3 align="center">Hello,this is Sumit and i'm from India.I had completed my engineering as an Automobile Engineer and Aspiring data scientist.</h3>
 
