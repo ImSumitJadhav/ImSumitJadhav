@@ -1,5 +1,5 @@
 
-<img align="center" alt="GIF" src="https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/data-science-icon-animation-banner-clockwise.gif?fit=1200%2C400" width="850" height="270"/>
+<img align="center" alt="GIF" src="https://www.thecompetence.in/assets/images/datascience.gif" width="1200" height="200"/>
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
