@@ -1,5 +1,5 @@
 
-<img align="center" alt="GIF" src="https://www.thecompetence.in/assets/images/datascience.gif" width="1200" height="200"/>
+<img align="center" alt="GIF" src="https://www.topcoder.com/wp-content/media/2018/04/DataScience.gif" width="1150" height="270"/>
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
